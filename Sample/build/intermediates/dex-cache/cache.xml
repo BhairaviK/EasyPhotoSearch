@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\bkanna\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\bkanna\Documents\GitHub\Cognitive-Vision-Android\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_38472fca3a38ecb2cd813e3f00c205d87c95bd3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bkanna\Documents\GitHub\Cognitive-Vision-Android\Sample\app\libs\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\bkanna\Documents\GitHub\Cognitive-Vision-Android\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.3.1_81260b281c35852f2d55daf2a8352353d815368c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bkanna\.android\build-cache\6abe150a3eb7536ea74895c2f9143903614ba43f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47fd7baf51eb46757f03a59d06dac40e92eac318">
+        <dex dex="C:\Users\bkanna\Documents\GitHub\Cognitive-Vision-Android\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7267f8969ee3d90d65c220b529197fac75d6b41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bkanna\Documents\GitHub\Cognitive-Vision-Android\Sample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90a21cfce15f617bf72faae3135797aa04d85319">
+        <dex dex="C:\Users\bkanna\Documents\GitHub\Cognitive-Vision-Android\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_91fb0c0189ce7517ca308cf4885c91203cce8678\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bkanna\Documents\GitHub\Cognitive-Vision-Android\Sample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\bkanna\Documents\GitHub\Cognitive-Vision-Android\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_88564f4cfa86575ce0f2cccbc304caf636eef7bc\classes.dex" />
+    </item>
+
+</items>
